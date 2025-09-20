@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 =======
 index paso1
 
@@ -5,3 +6,10 @@ index paso1
 index rama 2 paso 1
 index rama 1 paso 2
 >>>>>>>
+=======
+index paso1
+index rama 2 paso 1
+
+
+rama js
+>>>>>>> js
